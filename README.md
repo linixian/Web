@@ -12,4 +12,5 @@
 # 作業連結區 #
 +  [靜態網頁](https://linixian.github.io/HW1/mypage/)
 +  [作業一](https://youtu.be/BOLyBJyTPq8)
++  [作業二](https://youtu.be/BgauQzFOQhI)
 # 專題連結區 #
