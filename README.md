@@ -13,5 +13,5 @@
 +  [靜態網頁](https://linixian.github.io/HW1/mypage/)
 +  [作業一](https://youtu.be/BOLyBJyTPq8)
 +  [作業二](https://youtu.be/BgauQzFOQhI)
-+  [作業三 Lab1](https://youtu.be/c960bC1IcLU)
++  [作業三 Lab2](https://youtu.be/c960bC1IcLU)
 # 專題連結區 #
